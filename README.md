@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexey Bykovsky</h1>
 <h3 align="center">A young and promising frontend developer from Russia,Moscow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvcigy&label=Profile%20views&color=0e75b6&style=flat" alt="vvcigy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvcigy" alt="vvcigy" /></a> </p>
-
 - 🔭 I’m currently working on [Quiz](https://github.com/vvcigy/quiz)
 
-- 🌱 I’m currently learning **https://ru.reactjs.org/**
+- 🌱 I’m currently learning [React](https://ru.reactjs.org)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vvcigy](https://github.com/vvcigy)
 
