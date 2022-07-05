@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=vvcigy&style=flat-square&color=blue" alt=""/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=vvcigy&style=flat-square&color=blue" alt=""/>
   
 - 🔭 I’m currently working on [Telegram Weather Bot](https://github.com/vvcigy/weather-telegram-bot) 
 
