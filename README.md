@@ -63,10 +63,12 @@
 
 ### :fire: My Stats :
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=vvcigy&theme=dark&background=000000)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvcigy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvcigy&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=vvcigy&theme=dark&background=000000)  
+
 
 
