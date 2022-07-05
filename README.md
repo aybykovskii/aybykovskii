@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexey Bykovsky</h1>
 <h3 align="center">A young and promising frontend developer from Russia,Moscow</h3>
 
-- 🔭 I’m currently working on [Quiz](https://github.com/vvcigy/quiz)
+- 🔭 I’m currently working on [Weather Telegram Bot](https://github.com/vvcigy/weather-telegram-bot)
 
 - 🌱 I’m currently learning [React](https://ru.reactjs.org)
 
