@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <h3>Hi there 👋, my name is Alexey Bykovsky</h3>
+  <h4>I am React Frontend Developer at <a href="https://answer-42.ru/">42</a></h4>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋, my name is Alexey Bykovsly
 #### I am React Frontend Developer at [42](https://answer-42.ru/)
 ![I am React Frontend Developer at [42](https://answer-42.ru/)](https://answer-42.ru/images/main.png)
