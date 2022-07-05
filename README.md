@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hi there 👋, my name is Alexey Bykovsly
-#### I am React Frontend Developer at [42](https://answer-42.ru/)
-![I am React Frontend Developer at [42](https://answer-42.ru/)](https://answer-42.ru/images/main.png)
-
-
+<div id="badges">
+  <a href="t.me/vvcigy">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" />
+  </a>
+  </div>
 - 🔭 I’m currently working on [Telegram Weather Bot](https://github.com/vvcigy/weather-telegram-bot) 
 
 
