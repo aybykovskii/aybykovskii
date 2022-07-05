@@ -24,7 +24,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
-- 🔭 I’m currently working on [Telegram Weather Bot](https://github.com/vvcigy/weather-telegram-bot) 
+  ### 👨‍💻 About Me :
+  I'm React Frontend Develper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia :ru:
+  
+  - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
+
+  - ⚡ In my free time, I study new features in the frontend world and write various small projects for the soul. The last of them [Telegram Weather Bot](https://github.com/vvcigy/weather-telegram-bot) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vvcigy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vvcigy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vvcigy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vvcigy)  
