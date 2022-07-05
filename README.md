@@ -6,7 +6,10 @@
 
 <div id="badges">
   <a href="https://t.me/vvcigy">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" />
+  </a>
+    <a href="https://twitter.com/vvcigy">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
   
