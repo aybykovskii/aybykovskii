@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexey Bykovsky</h1>
-<h3 align="center">A young and promising frontend developer from Russia,Moscow</h3>
+<h3 align="center">A frontend developer from Russia, Moscow</h3>
 
 - 🔭 I’m currently working on [Weather Telegram Bot](https://github.com/vvcigy/weather-telegram-bot)
-
-- 🌱 I’m currently learning [React](https://ru.reactjs.org)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vvcigy](https://github.com/vvcigy)
 
