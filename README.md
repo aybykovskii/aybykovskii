@@ -20,9 +20,13 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=vvcigy&style=flat-square&color=blue" alt=""/>
   </div>
   
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+  
+  ---
   
   ### 👨‍💻 About Me :
   I'm React Frontend Develper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia :ru:
@@ -31,7 +35,7 @@
 
   - ⚡ In my free time, I study new features in the frontend world and write various small projects for the soul. The last of them [Telegram Weather Bot](https://github.com/vvcigy/weather-telegram-bot) 
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -55,13 +59,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
 </div>
 
+---
 
-
+### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvcigy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvcigy&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vvcigy)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=vvcigy&theme=dark&background=000000)  
 
 
