@@ -5,10 +5,11 @@
 </div>
 
 <div id="badges">
-  <a href="t.me/vvcigy">
+  <a href="https://t.me/vvcigy">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
   </div>
+  
 - 🔭 I’m currently working on [Telegram Weather Bot](https://github.com/vvcigy/weather-telegram-bot) 
 
 
