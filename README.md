@@ -1,7 +1,7 @@
 <div id="header" align="center">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3>Hi there 👋, my name is Alexey Bykovsky</h3>
   <h4>I am React Frontend Developer at <a href="https://answer-42.ru/">42</a></h4>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
