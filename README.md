@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3>Hi there 👋, my name is Alexey Bykovsky</h3>
+  <h3>Hi there 👋, my name is Alexei Bykovskii</h3>
   <h4>I am React Frontend Developer at <a href="https://answer-42.ru/">42</a></h4>
 </div>
 
@@ -11,8 +11,8 @@
   <a href="https://twitter.com/vvcigy">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://vk.com/vvcigy">
-      <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
+    <a href="https://www.linkedin.com/in/bykovskiialeksey/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
   
@@ -33,7 +33,7 @@
   
   - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-  - ⚡ In my free time, I study new features in the frontend world and write various small projects for the soul. The last of them [Telegram Weather Bot](https://github.com/vvcigy/weather-telegram-bot) 
+  - ⚡ In my free time, I study new features in the frontend world and write various small projects for the soul 
 
 ---
 
