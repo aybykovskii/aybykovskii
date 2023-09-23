@@ -29,7 +29,7 @@
   ---
   
   ### 👨‍💻 About Me :
-  I'm React Frontend Develper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia :ru:
+  I'm React Frontend Develper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
 
