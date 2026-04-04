@@ -1,71 +1,62 @@
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3>Hi there 👋, my name is Alexei Bykovskii</h3>
-  <h4>I am React Frontend Developer at <a href="https://answer-42.ru/">42</a></h4>
+<div align="center">
+
+# Aleksey Bykovskii
+
+### Senior Frontend Engineer · React / TypeScript · Remote
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aybykovskii-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aybykovskii/)
+[![Email](https://img.shields.io/badge/Email-aybykovskii@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aybykovskii@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D14836?logo=adobeacrobatreader&logoColor=white)](https://github.com/aybykovskii/aybykovskii/raw/main/resume.pdf)
+
 </div>
 
-<div id="badges" align="center">
-  <a href="https://t.me/aybykovskii">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" />
-  </a>
-    <a href="https://www.linkedin.com/in/aybykovskii/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  
-  <div id="views" align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=vvcigy&style=flat-square&color=blue" alt=""/>
-  </div>
-  
+---
+
+## About
+
+Senior Frontend Engineer with 5+ years building React/TypeScript applications at scale. Currently working on [Moscow Electronic School](https://uchebnik.mos.ru) — a government education platform serving millions of students across Moscow.
+
+I architect things, grow engineers, and ship products end-to-end. Outside of work I build my own products from scratch — from architecture to CI/CD to production.
+
+Open to remote opportunities with product-focused companies.
+
+---
+
+## Featured projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [🦷 Baby Vita Dent](https://babyvitadent.ru) | Full-stack platform for a dental clinic network — booking system, admin panel, SEO. ~5,000 monthly users | Next.js, Node.js, MongoDB | ![Live](https://img.shields.io/badge/Live-brightgreen) |
+| [🛍️ Daaspil](https://daaspil.com) | Conversion-focused e-commerce landing — sub-second load times, active sales | Astro, Convex, AWS S3, CloudFront | ![Live](https://img.shields.io/badge/Live-brightgreen) |
+| [🤖 Guidegram](https://github.com/toro-devs/guidegram-preview) | Telegram commerce bot — full paywall, broadcasts, discount system | TypeScript, grammY, PostgreSQL, BullMQ | ![Archived](https://img.shields.io/badge/Archived-lightgrey) |
+| [🌐 Portfolio](https://github.com/aybykovskii) | Personal CV site — built to showcase projects and experience | Astro, TypeScript | ![In Progress](https://img.shields.io/badge/In_Progress-orange) |
+
+---
+
+## Stack
+
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+
+**Tools & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aybykovskii?cardType=level&theme=github-dark&fontFamily=Fira%20Code&preferLogin=false)](https://git.io/awesome-stats-card)
+
 </div>
-  
-  ---
-  
-  ### 👨‍💻 About Me :
-  I'm React Frontend Develper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  
-  - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
-
-  - ⚡ In my free time, I study new features in the frontend world and write various small projects for the soul 
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="TS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab"  alt="gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Stats :
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=aybykovskii&theme=dark&background=000000)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aybykovskii)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aybykovskii&show_icons=true)  
-
-
-
-
