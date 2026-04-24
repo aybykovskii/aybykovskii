@@ -4,6 +4,8 @@
 
 ### Senior Frontend Engineer · React / TypeScript · Remote
 
+
+[![Website](https://img.shields.io/badge/website-aybykovskii.toro%E2%80%93devs.pro-555?style=plastic&labelColor=8C43D6)](https://aybykovskii.toro-devs.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aybykovskii-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aybykovskii/)
 [![Email](https://img.shields.io/badge/Email-aybykovskii@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aybykovskii@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-D14836?logo=adobeacrobatreader&logoColor=white)](https://github.com/aybykovskii/aybykovskii/raw/main/resume.pdf)
@@ -26,10 +28,10 @@ Open to remote opportunities with product-focused companies.
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [🦷 Baby Vita Dent](https://babyvitadent.ru) | Full-stack platform for a dental clinic network — booking system, admin panel, SEO. ~5,000 monthly users | Next.js, Node.js, MongoDB | ![Live](https://img.shields.io/badge/Live-brightgreen) |
+| [🌐 Portfolio](https://aybykovskii.toro-devs.pro) | Personal CV site — built to showcase projects and experience | Astro, TypeScript | ![Live](https://img.shields.io/badge/Live-brightgreen) |
 | [🛍️ Daaspil](https://daaspil.com) | Conversion-focused e-commerce landing — sub-second load times, active sales | Astro, Convex, AWS S3, CloudFront | ![Live](https://img.shields.io/badge/Live-brightgreen) |
+| [🦷 Baby Vita Dent](https://babyvitadent.ru) | Full-stack platform for a dental clinic network — booking system, admin panel, SEO. ~5,000 monthly users | Next.js, Node.js, MongoDB | ![Live](https://img.shields.io/badge/Live-brightgreen) |
 | [🤖 Guidegram](https://github.com/toro-devs/guidegram-preview) | Telegram commerce bot — full paywall, broadcasts, discount system | TypeScript, grammY, PostgreSQL, BullMQ | ![Archived](https://img.shields.io/badge/Archived-lightgrey) |
-| [🌐 Portfolio](https://github.com/aybykovskii) | Personal CV site — built to showcase projects and experience | Astro, TypeScript | ![In Progress](https://img.shields.io/badge/In_Progress-orange) |
 
 ---
 
